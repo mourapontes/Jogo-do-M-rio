@@ -3,7 +3,6 @@ No Jogo do Mario, o objetivo é ajudar o personagem principal, Mario, a evitar o
 
 <div align="center">
 
-![Captura de tela - Mario Game](https://github.com/emilyfas/mario-game/assets/115494759/a81e783b-432e-485d-957e-449c9c0fd564)
 
 </div>
 <div align=center>
@@ -16,7 +15,7 @@ No Jogo do Mario, o objetivo é ajudar o personagem principal, Mario, a evitar o
 ## Visualizar o Projeto
 Você pode visualizar o projeto clicando no link abaixo:
 
-https://emilyfas.github.io/mario-game/
+https:
 
 ---
 # Índice 
@@ -48,7 +47,7 @@ https://emilyfas.github.io/mario-game/
 
 ## Como Jogar:
 
-1. [Abra o jogo](https://emilyfas.github.io/mario-game/) no seu navegador.  
+1. [Abra o jogo]( ) no seu navegador.  
 
 2. Ao iniciar o jogo, o Mario estará em posição inicial.
 
@@ -66,45 +65,3 @@ https://emilyfas.github.io/mario-game/
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
   
-</div>
-<div align="right">
-
-  [Índice :point_up:](#índice)
-</div>
-
----
-<div id="contato">
-
-## Contato:
-### Emilly Fernandes
-Alguns meios de contato:
-<div>
-<a href = "mailto:emilly.fernandesads@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/emilly-fernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-</div>
-
-<div align="right">
-
-  [Índice :point_up:](#índice)
-</div>
-
----
-<div id="creditos">
-
-## Creditos
-
-Link de acesso ao vídeo do projeto inicial:
-
-https://youtu.be/r9buAwVBDhA
-
-Projeto foi feito pelo canal "Manual do Dev", o professor tem uma didática ótima, consegui entender muitas que estava tendo dificuldade através deste projeto.
-
-Este projeto foi inicialmente inspirado no tutorial Como criar um jogo SIMPLES usando JavaScript e HTML (https://youtu.be/r9buAwVBDhA) e aprimorado por [Emilly Fernandes]. Agradecimentos especiais a [Manual do Dev] pela criação do projeto base que serviu para muita evolução e aprendizagem.
-
-<div align="right">
-
-  [Índice :point_up:](#índice)
-
-</div>
-</div>
