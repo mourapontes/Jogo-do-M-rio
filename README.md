@@ -15,19 +15,15 @@ No Jogo do Mario, o objetivo é ajudar o personagem principal, Mario, a evitar o
 ## Visualizar o Projeto
 Você pode visualizar o projeto clicando no link abaixo:
 
-https:
+https:https://mourapontes.github.io/Jogo-do-M-rio/jogo.html
 
 ---
 # Índice 
-* [Título e Imagem de capa](#mário-game)
 * [Visualizar o projeto](#visualizar-o-projeto)
 * [Índice](#índice)
 * [Recursos Aprimorados](#recursos-aprimorados)
 * [Como Jogar](#como-jogar)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Contato](#contato)
-* [Creditos](#creditos)
-
 
 
 ---
@@ -47,7 +43,7 @@ https:
 
 ## Como Jogar:
 
-1. [Abra o jogo]( ) no seu navegador.  
+1. [Abra o jogo](https://mourapontes.github.io/Jogo-do-M-rio/jogo.html ) no seu navegador.  
 
 2. Ao iniciar o jogo, o Mario estará em posição inicial.
 
